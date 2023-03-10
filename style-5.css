@@ -1,0 +1,161 @@
+span:hover{color:#00b39b  ;
+           }
+         
+
+     
+     .logo{margin-top: 50px;
+            }
+
+    span{color: darkgrey;}
+      .block{display: flex;
+             flex-direction:row ;
+            height: 5px;
+             margin-left: 900px;
+               position: fixed;
+              margin-top: 30px;}
+
+
+.box-nav{display:flex;
+     flex-direction: row;
+    height: 60px;
+    justify-content: space-between;
+      background-color: whitesmoke;
+    width: 2000px;
+  top: 0px;
+   left: 0px;
+  position: absolute;
+position: fixed;
+  align-items: center;}
+
+
+     .box-div{display: flex;
+               flex-direction: row;
+               justify-content: space-between;
+                margin-left: 115px;}
+
+      .box-country{display: flex;
+                 flex-direction: row;
+                  justify-content: space-between;
+                margin-left: 115px;
+              
+              margin-top: 60px;
+               margin-right: 175px;
+               color: white;
+              font-size: 25px;}
+                  
+
+       .box-im{display: flex;
+               flex-direction: row;
+              align-items: center;
+            height: 42px;
+                 }
+
+      .block-span{display: flex;
+                  flex-direction: row;
+                justify-content: space-between;
+              margin-left: 115px;
+                }
+
+       .Box-a{display: flex;
+             flex-direction: row;}         
+
+             .block-span:hover{color:#00b39b ;}
+
+
+
+
+        .box{display: flex;
+          flex-direction: column;
+          border: 0px solid  #333333;
+              width:  580px;
+              height:500px ;
+              overflow: hidden
+              }
+
+         .box-first{display: flex;
+                    flex-direction: column;
+                    justify-content: flex-start;
+                 margin-left: 110px; }
+
+
+        .block-flag{font-size: 25px; color: #009884;
+                    }
+
+        .box-ind{ display: flex;
+          flex-direction: column;
+           height: 260px;
+              width:240px;
+                background-color:#fff ; 
+              margin: 10px;
+              padding: 10px;
+            align-items: center;
+            justify-content: space-around;
+            border-radius: 5PX;}
+
+
+        .block-second{display: flex;
+                     flex-wrap: wrap;
+                      width: 700px;
+                     height: 630px;
+                     margin-right: 70px;
+                     margin-top: 10px;
+                     align-items: center;
+                      }
+
+
+      .box-sup{display: flex;
+               flex-direction: row;
+              background-color: #a5ece3;
+              margin-top: 60px;
+              justify-content: space-between}
+
+
+      .block-un{display: flex;
+                flex-direction: column;
+              height: 200px; 
+              justify-content: center;
+          align-items: center;
+           width: 500px;
+          margin-left: 400px;
+        margin-top: 50px;}
+
+
+        .box-pictures{display: flex;
+                      flex-wrap: wrap;
+                    width: 1200px;
+                    justify-content: center;
+                  margin-left: 30px;
+                   margin-top: 50px;}
+
+.block-img{border-top-right-radius: 5px;
+            border-top-left-radius: 5px;}
+
+
+        .p-block{display: flex;
+          flex-direction: column;justify-content: space-between;
+             width: 310px;
+              border-radius: 10px;
+            margin: 10px;}
+
+
+
+        .block-note{display: flex;
+                    flex-direction:row ;
+                  width: 307.5px;
+                justify-content: space-around;
+              height: 80px; 
+               align-items: center;
+              border-bottom-left-radius: 5px ;
+            border-bottom-right-radius: 5px;
+             border: solid 0.5px rgb(227, 227, 227);}
+
+        .BOX-Blue{display: flex;
+                  flex-direction: row;
+                align-items: center;
+                justify-content: center; 
+                font-size: 10px; 
+                height: 30px; 
+                 background-color: mediumblue; 
+                  width: 120px;
+                  border-radius: 5px;
+              }      
