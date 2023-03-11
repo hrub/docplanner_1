@@ -1,4 +1,4 @@
-span:hover{color:#00b39b  ;
+.block-a:hover{color:#00b39b  ;
            }
          
 
@@ -32,6 +32,10 @@ position: fixed;
                flex-direction: row;
                justify-content: space-between;
                 margin-left: 115px;}
+
+.span-box:hover{color: aqua;}
+
+
 
       .box-country{display: flex;
                  flex-direction: row;
@@ -135,7 +139,8 @@ position: fixed;
           flex-direction: column;justify-content: space-between;
              width: 310px;
               border-radius: 10px;
-            margin: 10px;}
+            margin: 10px;
+             text-decoration: none;}
 
 
 
